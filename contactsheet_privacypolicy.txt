@@ -1,0 +1,9 @@
+
+************* Waiver Wizard Privacy Policy *****************
+  
+All the data collected by this application is stored within your device. It does not transmit any information or share it with any servers. 
+  
+The option " Report a Bug -> Send Report" allows you to send the Applications internal log files via e-mail for troubleshooting and crash analysis only. This option can only be triggered manually by yourself. The data in the log file consists of internal error messages and the screens that were opened. No personal data entered in the app is included in this log.</p>
+
+This app contains advertisement from Google Ads(TM by Google). For Google privacy policy please refer to: https://policies.google.com/privacy?hl=en .
+
